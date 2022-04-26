@@ -1,0 +1,55 @@
+body {
+    background-color: #373b3e;
+}
+p {
+    font-size: 1.2em;
+}
+h1, h2 {
+    font-weight: lighter;
+}
+h2 {
+    font-size: 1.7em;
+    color: white;
+}
+h3 {
+    font-size: 1.3em;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.navbar {
+    background-color: #04414d;
+}
+.nav-item .nav-link {
+    color: #adb5bd;
+}
+.nav-item .nav-link:hover {
+    color: #6c757d;
+}
+.intro {
+    padding-top: 100px;
+}
+#hp-text {
+    margin-right: 8em;
+}
+.btn {
+    background-color: #087e96;
+    padding: 0 60px 0 60px;
+}
+#hp-cards {
+    padding-top: 100px;
+}
+.bg-card{
+    background-color: #087e96;
+}
+.card {
+    border: none;
+}
+.card-square {
+    outline: 1px solid white;
+    outline-offset: -15px;
+}
+.copyright {
+    display: flex;
+    margin-top: 140px;
+}
+
